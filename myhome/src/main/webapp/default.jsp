@@ -20,7 +20,7 @@ a:hover, a:active {text-decoration: none; color: #000}
 <body>
 	<div class="container-fluid p-5 bg-success text-white text-center">
   <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p> 
+  <p><a href="${context}/member?cmd=write">회원가입</a></p> 
 </div>
   
 <div class="container mt-5">
